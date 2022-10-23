@@ -10,7 +10,7 @@ O si formateaste y se te olvidó cómo 🤷‍♀️
 
 ## Actividades
 
-- Lo que necesitas para comenzar 👶
+- [Lo que necesitas para comenzar 👶](tutoriales/00-lo-que-necesitas-para-comenzar.md)
 - Instalando y configurando lo necesario
 - Ya que sabes React...
 - Hablemos de Atomic Design
